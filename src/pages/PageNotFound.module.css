@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 2rem;
+}
+.page h1 {
+  font-size: 3rem;
+  color: black;
+  font-weight: 700;
+}
