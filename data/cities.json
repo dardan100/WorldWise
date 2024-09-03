@@ -1,15 +1,63 @@
 {
   "cities": [
     {
-      "id": "d255",
-      "cityName": "Peguerinos",
+      "id": "edba",
+      "cityName": "Villarta de los Montes",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-03-28T12:34:06.107Z",
+      "notes": "",
+      "date": "2024-07-04T13:19:37.934Z",
+      "position": {
+        "lat": "39.21523130910493",
+        "lng": "-4.7900390625"
+      }
+    },
+    {
+      "id": "0a3f",
+      "cityName": "Castril",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "olug",
+      "date": "2024-07-04T13:19:43.904Z",
+      "position": {
+        "lat": "37.75334401310659",
+        "lng": "-2.8564453125000004"
+      }
+    },
+    {
+      "id": "f17e",
+      "cityName": "Blomard",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-07T07:42:23.673Z",
       "notes": "",
       "position": {
-        "lat": "40.66397287638688",
-        "lng": "-4.240722656250001"
+        "lat": "46.28622391806708",
+        "lng": "2.9882812500000004"
+      }
+    },
+    {
+      "id": "4d0e",
+      "cityName": "Lerin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-03T12:13:48.048Z",
+      "notes": "",
+      "position": {
+        "lat": "42.50450285299051",
+        "lng": "-1.9995117187500002"
+      }
+    },
+    {
+      "id": "f79b",
+      "cityName": "Vieira do Minho",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-03T12:13:50.775Z",
+      "notes": "",
+      "position": {
+        "lat": "41.64007838467894",
+        "lng": "-8.129882812500002"
       }
     }
   ]
