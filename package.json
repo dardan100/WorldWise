@@ -10,7 +10,9 @@
     "preview": "vite preview",
     "lint-dev": "eslint .src/**/*.js",
     "lint-build": "npm run lint-dev -- --max-warnings 0",
-    "server": "json-server --watch data/cities.json --port 9999"
+    "server": "json-server --watch data/cities.json --port 9999",
+    "server-pm2": "pm2 start json-server --name json-server --watch --watch-delay 1000 -- data/cities.json --port 9999",
+    "stop-server-pm2": "pm2 stop json-server"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
