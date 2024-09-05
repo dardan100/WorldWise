@@ -1,7 +1,7 @@
 import { exec } from "child_process";
 
 exec(
-  "json-server --watch data/questions.json --port 1000",
+  "json-server --watch data/questions.json --port 9999",
   (error, stdout, stderr) => {
     if (error) {
       console.error(`Error: ${error.message}`);
