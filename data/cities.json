@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "5aff",
+      "cityName": "Beost",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-03T16:52:46.596Z",
+      "notes": "",
+      "position": {
+        "lat": "43.004647127794435",
+        "lng": "-0.3515625"
+      }
+    },
+    {
+      "id": "b99e",
+      "cityName": "Taillecavat",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-03T16:52:54.291Z",
+      "notes": "",
+      "position": {
+        "lat": "44.63739123445587",
+        "lng": "0.15380859375000003"
+      }
+    },
+    {
+      "id": "2359",
+      "cityName": "Fundao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-03T16:52:56.323Z",
+      "notes": "",
+      "position": {
+        "lat": "40.094882122321174",
+        "lng": "-7.580566406250001"
+      }
+    }
+  ]
 }
